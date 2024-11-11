@@ -16,11 +16,15 @@
     "@testing-library/user-event": "^13.5.0",
     "@uiw/react-codemirror": "^4.23.0",
     "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
     "codemirror": "^5.65.17",
+    "express": "^4.21.1",
+    "http-proxy-middleware": "^2.0.7",
     "react": "^18.3.1",
     "react-codemirror2": "^8.0.0",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "rollup": "^2.79.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -46,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
