@@ -63,8 +63,7 @@ Whether you're learning, building projects, or just tinkering with code, this to
  <img src="https://github.com/user-attachments/assets/90326032-e37c-478c-a521-aebf2666c91c" alt="mayank-garg7" />
 
 <img src="https://github.com/user-attachments/assets/ec5ec641-87a6-4f96-bd1b-674c684dc529" alt="mayank-garg7" />
-
-![React CodePen Editor](https://mayank-garg7.github.io/CodePen/)  
+ 
 
 ---
 
